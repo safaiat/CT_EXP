@@ -1,0 +1,16 @@
+Nx = 128
+Ny = 128
+Nz = 1
+Deltaxy = 0.0005
+DeltaZ = 0.0000625
+ROIRadius = 0.032
+FirstSliceNumber = 700
+
+NViews = 225
+NChan = 1024
+DeltaCh = 0.0000625
+CenterOff = 23.0
+DeltaSlice = 0.0000625
+
+LEN_PIX = 511
+BIN = 1
